@@ -1,3 +1,3 @@
 # lab-LSN
 
-Raccolta di tutti gli script python raccolti per lezioni in jupyter ntebook e del link del mio account Replit contenente tutti gli script C++.
+Ho raccolto in una cartella tutti gli script python in jupyter notebook divisi per leziome e in più condivido il link del mio account Replit contenente tutti gli script C++.
