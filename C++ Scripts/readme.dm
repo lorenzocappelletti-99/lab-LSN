@@ -1,1 +1,1 @@
-Condivido il link leggere i codici in c++ che ho scritto su Replit
+Condivido il link per leggere i codici in C++ che ho scritto su Replit.
